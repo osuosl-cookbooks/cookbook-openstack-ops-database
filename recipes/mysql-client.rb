@@ -34,7 +34,7 @@ when 'rhel'
 end
 
 mysql2_chef_gem 'default' do
-  gem_version '0.4.5'
+  gem_version '0.4.9'
   action :install
 end
 
